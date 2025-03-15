@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Erov's Note
 ---
+[[Op. Remembrance]]
+[[Materi-Materi LCC]]
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Use the sidebar in your left to navigate.
