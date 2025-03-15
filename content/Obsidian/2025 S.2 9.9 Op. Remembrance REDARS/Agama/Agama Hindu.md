@@ -1,0 +1,1 @@
+[[Atman]][[Upaweda]][[Sejarah Kerajaan Hindu Di Indonesia dan Asia Tenggara]][[Asta Aiswarya]][[Catur Purusa Artha]][[Dharmagita dan Yajna]][[Wedangga]]

@@ -1,0 +1,5 @@
+Jyotiṣa berasal dari kata Sanskerta ‘jyotiṣa (ज्योतिष)’ yang artinya ‘ilmu pengetahuan astronomi, ilmu astrologi, atau ilmu perbintangan’. Dalam kodifikasi Weda sebagaimana yang telah kalian pelajari di sekolah dasar, jyotiṣa dikelompokkan sebagai cabang dari Wedāṅga (Weda Angga) yang merupakan Weda Smṛti. Seseorang yang menjadi praktisi atau ahli jyotiṣa disebut sebagai jyotiṣi ‘ज्योतिषि’. 
+
+Dari penjelasan di atas, jyotiṣa dapat diartikan sebagai cabang ilmu pengetahuan dari Wedāṅga yang mempelajari astronomi, astrologi, dan horoskop untuk menentukan pengaruh waktu dalam kehidupan manusia. Bagi masyarakat Hindu, waktu atau kāla merupakan suatu hal yang sangat penting dalam kehidupannya. Segala hal yang telah terjadi di masa lampau dan yang akan datang memiliki kāla-nya masing-masing. Sang Kāla pada hakikatnya adalah Hyang Widhi Wasa itu sendiri.
+![[{6DAEB5F0-69BE-4F42-B1D8-F4D7B4D883E3}.png]]
+# 1. Kalender Saka

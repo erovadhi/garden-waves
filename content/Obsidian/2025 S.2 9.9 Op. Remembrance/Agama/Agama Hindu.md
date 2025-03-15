@@ -1,1 +1,0 @@
-[[Atman]][[Upaweda]][[Sejarah Kerajaan Hindu Di Indonesia dan Asia Tenggara]]

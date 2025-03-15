@@ -170,3 +170,29 @@ Prambanan dibangun atas perintah Raja Rakai Pikatan.
 	Kitab Kresnayana ditulis oleh Mpu Triguna. Diperkirakan ditulis pada jaman Raja Jayaswara. Kitab Kresnayana menceritakan tentang kisah perkawinan antara Kresna dan Dewi Rukmini.
 3. Kitab Smaradahana
 	Kitab Smaradahana diperkirakan ditulis pada jaman Raja Kameswari oleh Mpu Darmaja. Isinya menceritakan tentang sepasang suami istri Smara dan Ratih yang menggoda Dewa Siwa yang sedang bersemadi. Smara dan Ratih dikutuk dan mati terbakar oleh api (dahana) oleh kesaktian Dewa Siwa. Akan tetapi, kedua suami istri itu dihidupkan lagi dan menjelma sebagai Kameswara dan permaisurinya.
+## Bali
+Agama Hindu mulai berkembang di Bali pada abad ke-8 atau sekitar 800 masehi. Perkembangan agama Hindu di Bali dapat dibuktikan dengan ditemukannya Prasasti Blanjong di daerah Sanur. Prasasti Blanjong menggunakan bahasa Bali Kuno berangka tahun 835 Masehi. Dalam Prasasti Blanjong disebutkan nama seorang raja, yaitu Sri Kesari Warmadewa. Raja Bali yang pertama kali memakai gelar Warmadewa adalah Raja Sri Kesari. Sejak itu, raja-raja di Bali bergelar Warmadewa. Raja penerus Sri Kesari Warmadewa diantaranya adalah Sang Ratu Sri Unggrasena. Pada tahun 905 Saka, muncul seorang raja bergelar Sri Maharaja Sriwijaya Mahadewi yang diduga putri Raja Sriwijaya dari Sumatera.
+
+Setelah berakhir pemerintahan Sri Maharaja Sriwijaya Mahadewi, muncul seorang raja bernama Dharma Udayana Warmadewa yang memerintah bersama permaisurinya yang bergelar Sri Gunapria Darmapatni. Dari perkawinan ini, lahirlah tiga orang putra yaitu Airlangga, Marakata, dan Anak Wungsu. Airlangga memerintah di Jawa Timur menggantikan Dharmawangsa Teguh. Dua orang putra lainnya, Marakata dan Anak Wungsu menggantikan ayahnya menjadi raja di Bali.
+
+Raja Marakata yang bergelar Marakata Pankaja Sthanotungga Dewa memerintah pada tahun 933-944 Saka atau 1011-1022 M. Pada masa pemerintahan beliau, dibuatlah prasasti yang berangka tahun 944 Saka. Prasasti tersebut berisi kata-kata sumpah (Sapata) yang menyebutkan nama Dewa-Dewa Hindu.
+
+Raja Marakata digantikan oleh Anak Wungsu, yang memerintah tahun 971-999 Saka atau tahun 1049-1077 M. Pada masa pemerintahan beliau banyak dibuat prasasti. Prasasti-prasasti peninggalan Raja Anak Wungsu berjumlah 22 prasasti.
+
+Dalam penulisan prasasti disebutkan sebagai saksinya adalah para pegawai tinggi dan para pendeta Siwa dan Buddha. Dalam prasasti yang dikeluarkan pada tahun 993 Saka, disebutkan pada sapatannya “Untuk Hyang Anggasti Maharsi dan para Dewa yang lainnya”.
+
+Raja yang terakhir yang memerintah di Bali adalah Raja Paduka Sri Astasura Bhumi Banten yang memerintah tahun 1332–1343 M. Beliau dikenal dengan Raja Bedaulu. Gajah Mada datang ke Bali dan menaklukkan kerajaan Bali pada masa itu. Pemerintahan di Bali digantikan oleh rajaraja yang dikirim dari Majapahit, raja yang pertama memerintah Bali yang dikirim dari Majapahit adalah Raja Krisna Kepakisan.
+
+Pusat pemerintahan yang pada mulanya di Desa Samprangan dipindahkan ke Gelgel. Pada jaman pemerintahan Dalem Waturenggong didampingi oleh Purohita yang bernama Dang Hyang Nirartha. Pendeta ini terkenal dengan usahanya menata kembali keagamaan di Bali, yakni agama Hindu.
+
+### Peninggalan Kerajaan Hindu di Bali
+1. Prasasti Blanjong
+![[Pasted image 20250315183050.png]]
+Prasasti Blanjong ditemukan di daerah Sanur. Prasasti Blanjong menggunakan Bahasa Bali Kuno berangka tahun 835 Masehi. Prasasti Blanjong diperkirakan dibuat pada jaman Raja Sri Kesari, karena pada prasasti tersebut dituliskan nama Sri Kesari yang pertama kali mempergunakan gelar Warmadewa.
+2. Candi Gunung Kawi
+![[Pasted image 20250315183139.png]]
+Raja Anak Wungsu dikenal sebagai raja yang welas asih terhadap rakyatnya. Beliau dalam menjalankan pemerintahannya senantiasa memikirkan kesempurnaan dunia yang dikuasainya. Beliau juga berhasil mewujudkan kerajaan yang aman, damai, dan sejahtera. Saat itu penganut agama Hindu dapat hidup berdampingan dengan agama Buddha. Anak Wungsu sempat pula membangun sebuah kompleks percandian di Gunung Kawi (sebelah selatan Istana Tampak Siring) Candi tersebut merupakan peninggalan terbesar di Bali. Atas perannya yang gemilang itu, Anak Wungsu kemudian dianggap rakyatnya sebagai penjelmaan Dewa Hari (Dewa Kebaikan).
+
+> [!NOTE] Tulisan pada Candi Gunung Kawi
+> “Atas perannya yang gemilang itu, Anak Wungsu kemudian dianggap rakyatnya sebagai penjelmaan Dewa Hari.” Sebutan “dewa” adalah sebutan dalam ajaran agama Hindu. Selain itu, masih banyak peninggalan sejarah Hindu yang masih eksis dijadikan tempat persembahyang oleh umat Hindu, seperti Pura Besakih, Pura Penataran Sasih (Nekara Bulan Pejeng), dan lain sebagainya."
+# Di Negara Lainnya
