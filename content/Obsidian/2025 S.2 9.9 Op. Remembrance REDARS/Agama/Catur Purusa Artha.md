@@ -29,3 +29,12 @@ Semua bagian Moksha adalah setara namun ada tingkatan-tingkatan moksha yang mene
 4. Sayujya
 	Sayujya yaitu tingkatan mokhsa yang paling tinggi dan sempurna. Pada
 	tingkatan ini atman dapat bersatu dengan Tuhan dan tidak terbatas oleh apapun sehingga mencapai “Brahman Atman Aikyam”, yaitu atman dengan Tuhan benar-benar bersatu.
+
+# Catur Asrama
+
+|            Asrama            |     Usia     |                                                                                                      Desc.                                                                                                      |                                      Upacara                                      |
+| :--------------------------: | :----------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+|  Brahmacari<br>(Bersekolah)  |  Sampai 24   |                                                                                               Masa Mencari ilmu.                                                                                                | Diawali dengan upacara Upanayana (Penerimaan) dan Samawartana (Perpisahan/Ijazah) |
+| Grehasta<br>(Berumah Tangga) |    24-48     | Grehasta adalah tingkat kehidupan berumahtangga. Masa Grehasta ini adalah merupakan tingkatan kedua setelah Brahmacari. Diperbolehkan untuk melanjutkan keturunan dan melakukan hubungan intim dengan pasangan. |              Samawartana (Transisi)<br>Wiwaha Samskara (Perkawinan)               |
+|   Wanaprasta<br>(Pensiun)    |    48-72     |                                                                                     Pensiun dari pekerjaan dan beristirahat                                                                                     |                                    *Tidak Ada*                                    |
+|     Sanyasa<br>(Bertapa)     | 72-Meninggal |                 Dianjurkan untuk melakukan tirtha yatra. Masa beristirahat sepenuhnya dan menikmati sisa dari hidup. Dianjurkan untuk berbuat Dharma dan berbuat secara bijak layaknya pertapa.                 |                                    *Tidak Ada*                                    |
