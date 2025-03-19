@@ -14,7 +14,7 @@ Menurut Weda sehat adalah keharmonisan tubuh, pikiran & jiwa.
 
 
 # Tiga Cara Menjaga Kesehatan Menurut Ayur Weda
-Menurut Ayur Weda menjaga kesehatan dapat dilakukan denga tiga hal yaitu:
+Menurut Ayur Weda yang dipelopori oleh Dhan-Vantari pada 1500 SM dalam menjaga kesehatan dapat dilakukan denga tiga hal yaitu:
 1. Menjaga Makanan (Ahara)
 	Menurut Ayur Veda Makanan Yang Baik berguna untuk:
 	- Ayuh (memperpanjang hidup)
