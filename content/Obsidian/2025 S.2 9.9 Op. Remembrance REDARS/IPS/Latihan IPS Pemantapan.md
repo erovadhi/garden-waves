@@ -50,13 +50,13 @@ C. Identifikasi
 
 6. Salah satu proses sosial disosiatif yang terdapat dalam masyarakat ialah kontravensi. Contoh kontavensi dalam masyarakat adalah.....
 
-A. Dua kelompok pelajar terlibat tawuran akibat saling mengolok
+A. ==Dua kelompok pelajar terlibat tawuran akibat saling mengolok==
 
 B. Atlit panahan dari Indonesia berhasil mengalahkan perwakilan dari Vietnam
 
 C. Tim bulutangkis Indonesia berhasil meraih juara pertama dalam Sea Games 
 
-D. ==Pelajar A memfitnah pelajar B agar tidak memenangi pemilian calon ketua Osis==
+D. Pelajar A memfitnah pelajar B agar tidak memenangi pemilian calon ketua Osis
 
 7. Bunyi hukum penawaran" Apabila harga suatu barang makin tinggi, jumlah barang yang akan ditawarkan makin besar". Kemudian, harga suatu barang makin rendah maka....
 
