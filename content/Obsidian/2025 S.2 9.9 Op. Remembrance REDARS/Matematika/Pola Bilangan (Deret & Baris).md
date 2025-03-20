@@ -45,3 +45,7 @@ r = $\frac{U_n + 1}{U_n}$
 ### Deret Aritmatika
 S$_n$ = $\frac{n}{2}(a+U_n)$
 
+### Deret Geometri
+S$_n$=$\frac{a(1-r^n)}{1-r}$, r<1
+S$_n$=$\frac{a(r^n-1)}{r-1}$, r>1
+

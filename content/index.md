@@ -14,3 +14,7 @@ https://github.com/erovadhi/Garden-Alpha
 https://quartz.jzhao.xyz/
 https://dash.cloudflare.com/
 
+# Incase of Malfunction, Attacks and Technical Difficulty
+
+https://erovadhi.github.io/Garden-Alpha/
+https://garden-alpha.pages.dev/
