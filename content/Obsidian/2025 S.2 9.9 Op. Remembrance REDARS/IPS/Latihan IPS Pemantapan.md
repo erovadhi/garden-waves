@@ -203,13 +203,13 @@ D. Keunggulan aktif
 
 19. Pajak merupakan salah satu perwujudan dari sistem kekeluargaan dan gotongroyong rakyat yang sadar akan baktinya kepada pemerintah. Hal tersebut merupakan fungsi
 
-A. Anggaran
+==A. Anggaran==
 
 C. Regulasi
 
 B. Stabilitas
 
-==D. Redistribusi pendapatan==
+D. Redistribusi pendapatan
 
 20. Setelah VOC dibubarkan, politik kolonial liberal mulai dijalankan oleh Gubernur Jenderal Daendels. Tugas utama Daendels di Indonesia adalah....
 
@@ -279,19 +279,19 @@ A. Benua Afrika dan Eropa
 
 B. Benua Amerika dan Benua Eropa
 
-==C. Benua Asia dan Benua Afrika==
+C. Benua Asia dan Benua Afrika
 
-D. Benua Eropa dan Benua Asia
+==D. Benua Eropa dan Benua Asia==
 
 26. Pembayaran yang dilakukan setelah barang yang dikirimkan sudah terjual seluruhnya atau sebagian disebut dengan pembayaran....
 
 A. Wesel
 
-C. Konsinyasi
+==C. Konsinyasi==
 
 B. Kompensasi
 
-==D. Tunai==
+D. Tunai
 
 27. Menghilangkan hambatan perdagangan bebas guna memajukan kehidupan ekonomi dan sosial masyarakat Eropa, merupakan tujuan ...
 
@@ -315,9 +315,9 @@ D. Kebudayaan Indonesia akan dikenal oleh seluruh masyarakat dunia
 
 29. Si A yang akan melakukan perjalanan keluar negeri datang ke bank untuk menukarkan mata uang rupiah yang dimilikinya dengan mata uang negara tujuannya. Besaran harga yang diberikan oleh bank kepada si A terhadap mata uang asing itu disebut....
 
-==A. Kurs beli==
+A. Kurs beli
 
-B. Kurs jual
+==B. Kurs jual==
 
 C. Kurs
 
