@@ -1,0 +1,1 @@
+[[Interaksi Antar Ruang]] [[Kondisi Geografis dan Pelestarian Sumber Daya Alam]] 

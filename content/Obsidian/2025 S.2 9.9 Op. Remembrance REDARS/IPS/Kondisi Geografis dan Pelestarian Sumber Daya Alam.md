@@ -40,3 +40,108 @@ Projects · GitLab
 Hanya Pulau Kalimantan yang tidak dilalui oleh kedua sirkum pegunungan ini sehingga relatif aman dari bencana alam.
 
 # Proses Geografis Memengaruhi Keragaman Sosial Budaya
+## Letak Geografis
+
+Untuk batas wilayah Indonesia sendiri yaitu:
+
+1. Sebelah utara: Laut Cina Selatan dan Samudra Pasifik.
+2. Sebelah timur: Papua Nugini.
+3. Sebelah selatan: Samudra Hindia.
+4. Sebelah barat: Samudra Hindia.
+
+Sementara untuk luas wilayah Indonesia mencapai 5.194.143 km2 dan dua pertiga dari luas wilayah Indonesia adalah lautan. Dengan luas daratan berdasarkan CIA 1,904,569 km<sup>2</sup>.
+93,000 km<sup>2</sup> perairan.
+
+## Cuaca dan Iklim
+Indonesia memiliki iklim tropis, dengan musim hujan pada Oktober-Maret dan Kemarau di April-September. Tanaman tropis di Indonesia memiliki banyak varietas yang kaya akan hidrat arang terutama di makanan bahan makanan pokok. Pengaruh iklim dan cuaca di Indonesia yaitu:
+1. Penyinaran matahari membantu fotosintesis dan meningkatkan suhu udara.
+2. Suhu dapat mengurangi kadar air sehingga menjadi cenderung kering.
+3. Kelembaban membatasi hilangnya air.
+4. Angin membantu penyerbukan alami dan mengurangi kadar air.
+5. Hujan meningkatkan kadar air dan mengikis tanah.
+
+## Bentuk Relief
+Relief dalam geografi adalah perbedaan elevasi permukaan tanah. Di Indonesia orang yang tinggal di relief perbukitan memilih berjalan kaki dalam hal transportasi. Namun, yang tinggal di dekat sungai cenderung menggunakan perahu. Hal ini memengaruhi mobilitas transportasi.
+## Tipe Tanah
+Tipe tanah di Indonesia yaitu 
+1. Tanah humus -> Cocok untuk pertanian dan perkebunan
+2. Tanah laterit -> Cocok untuk membangun rumah
+3. Tanah aluvial -> Cocok untuk pertanian
+4. Tanah andosol -> Untuk menutrisi tanaman
+5.  Tanah pasir -> Material bangunan
+6. Tanah podzol -> Pertanian dan perkebunan
+7. Tanah laterit -> Bahan membuat kerajinan dan material lainnya
+8. Tanah kapur -> Bahan produk konsumen
+9. Tanah regosol -> Media tanam
+10. Tanah liat -> Bahan kerajinan
+
+## Jenis Flora dan Fauna
+Fauna Asiatis -> Barat Indonesia dipisah garis Wallace. Memiliki pengaruh dari fauna asia lainnya.
+Fauna Peralihan -> Fauna yang memang endemik di Indonesia, diapit oleh garis Wallace di barat dan Webber di timur.
+Fauna Australis -> Timur Indonesia dipisah oleh garis Webber, Memiliki pengaruh dari fauna australia lainnya.
+
+Beberapa Flora di Indonesia yaitu:
+
+- [Flora di Indonesia](https://www.gramedia.com/best-seller/flora-di-indonesia/#Flora_di_Indonesia "Flora di Indonesia")
+    - [1. Kepuh (Sterula foetida)](https://www.gramedia.com/best-seller/flora-di-indonesia/#1_Kepuh_Sterula_foetida "1. Kepuh (Sterula foetida)")
+    - [2. Sawo Kecik (Manilkara kauki)](https://www.gramedia.com/best-seller/flora-di-indonesia/#2_Sawo_Kecik_Manilkara_kauki "2. Sawo Kecik (Manilkara kauki)")
+    - [3. Matoa (Pometia Pinnata)](https://www.gramedia.com/best-seller/flora-di-indonesia/#3_Matoa_Pometia_Pinnata "3. Matoa (Pometia Pinnata)")
+    - [4. Sukun (Artocarpus Communis)](https://www.gramedia.com/best-seller/flora-di-indonesia/#4_Sukun_Artocarpus_Communis "4. Sukun (Artocarpus Communis)")
+    - [5. Kayu Cendana (Santalum Album)](https://www.gramedia.com/best-seller/flora-di-indonesia/#5_Kayu_Cendana_Santalum_Album "5. Kayu Cendana (Santalum Album)")
+    - [6. Bunga Bangkai (Amorphophalus Titanum)](https://www.gramedia.com/best-seller/flora-di-indonesia/#6_Bunga_Bangkai_Amorphophalus_Titanum "6. Bunga Bangkai (Amorphophalus Titanum)")
+    - [7. Anggrek Hitam (Coelogyne Pandurata)](https://www.gramedia.com/best-seller/flora-di-indonesia/#7_Anggrek_Hitam_Coelogyne_Pandurata "7. Anggrek Hitam (Coelogyne Pandurata)")
+    - [8. Sagu (Metroxylon Sagu)](https://www.gramedia.com/best-seller/flora-di-indonesia/#8_Sagu_Metroxylon_Sagu "8. Sagu (Metroxylon Sagu)")
+    - [9. Bunga Edelweis Jawa](https://www.gramedia.com/best-seller/flora-di-indonesia/#9_Bunga_Edelweis_Jawa "9. Bunga Edelweis Jawa")
+    - [10. Mangga Kasturi](https://www.gramedia.com/best-seller/flora-di-indonesia/#10_Mangga_Kasturi "10. Mangga Kasturi")
+    - 11. Bambu Manggong
+
+## Kontak Dengan Lautan
+Kontak bangsa Indonesia dengan lautan memiliki dampak yang luas, mulai dari ekonomi (potensi sumber daya laut, perikanan, pariwisata bahari), lingkungan (pencemaran, perubahan iklim, kerusakan ekosistem), hingga sosial (perubahan mata pencaharian, risiko bencana) dan politik (keamanan maritim, batas wilayah). 
+
+Berikut adalah rincian dampak-dampak tersebut:
+
+Dampak Ekonomi:
+
+- **Potensi Sumber Daya Laut:**
+    
+    Indonesia memiliki potensi ekonomi kelautan yang besar, seperti industri bioteknologi kelautan, perairan dalam (deep ocean water), wisata bahari, energi kelautan, mineral laut, dan pelayaran. 
+    
+- **Perikanan:**
+    
+    Perairan Indonesia kaya akan ikan, yang dapat menjadi komoditas ekspor dan sumber pendapatan nasional. 
+    
+- **Pariwisata Bahari:**
+    
+    Pantai, pulau-pulau, dan terumbu karang di Indonesia menjadi daya tarik pariwisata bahari yang dapat meningkatkan pendapatan daerah. 
+    
+- **Penurunan Perekonomian Nelayan:**
+    
+    Pencemaran laut dan perubahan iklim dapat menurunkan hasil tangkapan nelayan dan berdampak pada perekonomian mereka. 
+    
+
+Dampak Lingkungan:
+
+- **Pencemaran Laut:**
+    
+    Limbah industri, sampah plastik, dan tumpahan minyak dapat mencemari laut dan merusak ekosistem. 
+    
+- **Perubahan Iklim:**
+    
+    Kenaikan permukaan laut akibat perubahan iklim dapat mengancam wilayah pesisir, menyebabkan abrasi, banjir rob, dan hilangnya lahan. 
+    
+- **Kerusakan Ekosistem:**
+    
+    Eksploitasi sumber daya laut yang berlebihan, seperti penangkapan ikan yang tidak bertanggung jawab, dapat merusak ekosistem laut dan mengancam kelestarian biota laut. 
+    
+
+Dampak Sosial:
+
+- **Perubahan Mata Pencaharian:** Perubahan iklim dan pencemaran laut dapat memaksa masyarakat pesisir untuk beralih ke mata pencaharian lain. 
+- **Risiko Bencana:** Wilayah pesisir rentan terhadap bencana alam, seperti banjir rob, tsunami, dan abrasi pantai. 
+- **Gangguan Transportasi:** Kenaikan permukaan laut dapat mengganggu transportasi antar pulau. 
+
+Dampak Politik:
+
+- **Keamanan Maritim:** Keamanan perairan Indonesia menjadi penting untuk melindungi kedaulatan negara dan sumber daya laut. 
+- **Batas Wilayah:** Kenaikan permukaan laut dapat memengaruhi batas wilayah negara. 
+- **Konflik Batas Maritim:** Letak geografis Indonesia yang strategis dapat menyebabkan potensi konflik batas maritim dengan negara lain.
