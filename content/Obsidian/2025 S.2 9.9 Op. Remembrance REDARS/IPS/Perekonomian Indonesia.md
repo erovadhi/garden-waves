@@ -47,3 +47,56 @@ Pada masa sulitnya, pemerintah Indonesia pernah mengirim bantuan berupa 500 ribu
 2. Membentuk perwakilan Kementrian Pertahanan di luar negeri (KPULN) Kementrian Pertahanan Usaha Luar Negeri untuk membeli dan mengakuisisi alutsista dan perlengkapan Angkatan Perang.
 3. Mengadakan kontak hubungan dengan perusahaan swasta Amerika (*Isbrantsen Inc.*), usaha dilakukan oleh *Bank and Trading Corporation* yang dipimpin Sumitro Djojohadikusumo dan Dr. Ong Eng Die. Untuk melakukan impor dan ekspor.
 # Perekonomian Indonesia pada Pada Masa Demokrasi Terpimpin
+Kondisi perekonomian yang buruk menjadi salah satu alasan [Demokrasi Terpimpin](https://www.kompas.com/tag/demokrasi-terpimpin) (1959-1965) gagal di Indonesia.
+
+Kondisi ekonomi kala itu menjadi salah satu kondisi terburuk dalam catatan sejarah Indonesia. Beberapa masalah yang dihadapi yakni:
+
+1. Ekspor dan invesasi merosot
+2. Menipisnya cadangan devisa
+3. Inflasi mencapai ratusan persen
+4. Harga kebutuhan pokok mahal
+
+Adapun penyebabnya antara lain:
+
+1. Indonesia baru merdeka
+2. Pemberontakan dan gejolak politik terjadi berulang kali
+3. Indonesia berkonfrontasi dengan Malaysia dan negara-negara barat
+4. Anggaran negara dihamburkan untuk proyek politik Presiden Soekarno
+5. Kebijakan yang dikeluarkan gagal untuk menyelamatkan perekonomian
+
+## Ekonomi terpimpin
+
+Pada masa Demokrasi Terpimpin, Indonesia baru 15 tahun merdeka. Perekonomian masih sangat lemah.
+
+Kondisi politik saat itu masih bergejolak. Berbagai pemberontakan terjadi di daerah. Pemberontakan dan gejolak ini membuat aktivitas perekonomian terganggu.
+
+Ekonomi terpimpin adalah sistem ekonomi di mana semua aktivitas ekonomi dipusatkan di pemerintah. Daerah hanya kepanjangan tangan dari pemerintah pusat.
+
+Pusat memegang kekuasaan yang besar. Kewenangan Soekarno saat itu sangat besar.
+
+Kebijakannya untuk berkonfrontasi dengan Malaysia sejak 1961 berdampak pada perekonomian.
+
+Presiden Soekarno sedang berpidato dalam rapat raksasa mengganyang Malaysia di Gelora Bung Karno tanggal 28 Juli 1963.(IPPHOS)
+
+Sikap keras itu diperparah dengan keputusan Indonesia keluar dari Perserikatan Bangsa-bangsa (PBB) pada 1965.
+
+Kegiatan ekspor pun terhenti. Akibatnya, sejak tahun 1961, negara harus terus membiayai kekurangan neraca pembayaran dari cadangan emas dan devisa.
+
+Pada 1965 cadangan emas dan devisa telah habis bahkan menunjukkan saldo negatif sebesar 3 juta dollar AS sebagai dampak politik konfrontasi Malaysia dan negara-negara barat.
+
+Lebih dari itu, Soekarno justru makin gencar menghamburkan uang negara untuk menunjukkan kehebatan Indonesia.
+
+Biaya pemerintah untuk proyek politik mercusuar seperti Games of the New Emerging Forces (Ganefo) pada 1963 dan Conference of the Emerging Forces (Conefo) pada 1965 membengkak.
+
+## Buruknya Perekonomian
+Besarnya defisit anggaran belanja pemerintah pada 1961-1965 meningkat. Dari 29,7 persen pada 1961 menjadi 63,4 persen pada 1965.
+
+Sejak 1961, situasi moneter yang makin parah ditandai dengan laju inflasi yang tinggi (hiperinflasi).
+
+Pendapatan per kapita Indonesia turun secara signifikan antara 1962-1963.
+
+Situasi semakin parah ketika Indonesia keluar dari PBB.
+
+Pada 1965, tingkat peredaran uang naik hingga 161 persen. Sementara inflasi mencapai 592 persen.
+
+Bantuan asing berhenti karena Soekarno menolak bantuan dana sebesar 400 juta dollar AS dari International Monetary Fund (IMF). Investasi juga merosot tajam.
