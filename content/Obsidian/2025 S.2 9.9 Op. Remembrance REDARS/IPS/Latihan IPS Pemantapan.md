@@ -203,13 +203,13 @@ D. Keunggulan aktif
 
 19. Pajak merupakan salah satu perwujudan dari sistem kekeluargaan dan gotongroyong rakyat yang sadar akan baktinya kepada pemerintah. Hal tersebut merupakan fungsi
 
-A. Anggaran
+==A. Anggaran==
 
 C. Regulasi
 
 B. Stabilitas
 
-==D. Redistribusi pendapatan==
+D. Redistribusi pendapatan
 
 20. Setelah VOC dibubarkan, politik kolonial liberal mulai dijalankan oleh Gubernur Jenderal Daendels. Tugas utama Daendels di Indonesia adalah....
 

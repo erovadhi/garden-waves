@@ -129,4 +129,51 @@ Namun, Deklarasi ekonomi ini mengalami kegagalan karena Soekarno menolak bantuan
 Kebijakan ekonomi yang terakhir adalah peleburan bank yang dilakukan pada tahun 1965. Pemerintah berusaha menyatukan semua bank negara dalam bank sentral yang berfungsi sebagai bank sirkulasi, bank sentral dan bank umum.
 
 # Perekonomian Indonesia pada Masa Orde Baru
-Presiden Soeharto dihadapkan dengan masalah yang sulit di bidang ekonomi.
+Pada awal masa Orde Baru, program ekonomi pemerintah lebih banyak tertuju kepada upaya penyelamatan ekonomi nasional terutama upaya mengatasi inflasi, penyelamatan keuangan negara, dan pengamanan kebutuhan pokok rakyat. Dalam melaksanakan program ekonomi, pemerintah menetapkan kebijakan ekonomi jangka pendek dan jangka panjang. Program tersebut dapat terlaksana dan berhasil menjadikan ekonomi Indonesia berkembang pesat.
+
+## Program Jangka Pendek
+Program jangka pendek dalam rangka penyelamatan ekonomi nasional diwujudkan dengan stabilisasi dan rehabilitasi ekonomi. Pada awal tahun 1966, tingkat inflasi mencapai 650 persen. Maka, pemerintah tidak dapat melakukan pembangunan dengan segera, tetapi harus melakukan stabilisasi dan rehabilitasi ekonomi terlebih dahulu. Stabilisasi yang dimaksud adalah pengendalian inflasi supaya harga-harga tidak melonjak terus secara cepat. Rehabilitasi yang dimaksud adalah rehabilitasi fisik terhadap prasarana- prasarana dan alat-alat produksi yang banyak mengalami kerusakan. Stabilisasi dan rehabilitasi ekonomi yang dilakukan membuahkan hasil yang cukup baik. Tingkat inflasi yang semula mencapai 650 persen  berhasil ditekan menjadi 120 persen pada tahun 1967 dan 80persen pada 1968. Keadaan ekonomi Indonesia terus membaik, hingga pada tahun 1969, pemerintah siap melaksanakan program jangka panjang.  
+## Program Jangka Panjang
+Program jangka panjang yang dilaksanakan oleh pemerintah Orde Baru diwujudkan dengan pelaksanaan rencana pembangunan jangka panjang (25 tahun). Pembangunan jangka panjang dilakukan secara periodik lima tahunan yang disebut Pelita (Pembangunan Lima Tahun). Berikut isi lima Pelita dan periodenya:
+
+### Pelita I (1 April 1969-1 Maret 1974)
+
+Sasaran yang hendak dicapai adalah pangan, sandang, perbaikan prasarana, perumahan rakyat, perluasan lapangan kerja, dan kesejahteraan rohani. Pelita I lebih menitikberatkan pada sektor pertanian.
+
+Pelaksanaan Pelita I telah membuahkan hasil yang cukup menggembirakan, antara lain:
+
+- Produksi beras telah meningkat dari 11,32 juta ton menjadi 14 juta ton
+- Pertumbuhan ekonomi dari rata-rata 3persen menjadi 6,7 persen per tahun
+- Pendapatan rata-rata penduduk (pendapatan per kapita) dari 80 USD dapat ditingkatkan menjadi 170 USD
+- Tingkat inflasi dapat ditekan menjadi 47,8 persen pada akhir Pelita I (1973/1974)
+### Pelita II (1 April 1974 - 31 Maret 1979)
+
+Sasaran yang hendak dicapai pada masa ini adalah pangan, sandang, perumahan, sarana dan prasarana, menyejahterakan rakyat, dan memperluas lapangan kerja.
+
+Pelita II berhasil meningkatkan pertumbuhan ekonomi rata- rata penduduk 7 persen setahun. Tingkat inflasi berhasil ditekan hingga 9,5 persen. Pada sektor pertanian, telah dilakukan perbaikan dan pembangunan jaringan irigasi baru.
+### Pelita III (1 April 1979-31 Maret 1984)
+
+Pelita III lebih menekankan pada Trilogi Pembangunan yang bertujuan terciptanya masyarakat yang adil dan makmur berdasarkan Pancasila dan UUD 1945. Arah dan kebijaksanaan ekonominya adalah pembangunan pada segala bidang.
+
+Pedoman pembangunan nasionalnya adalah Trilogi Pembangunan dan Delapan Jalur Pemerataan. Inti dari kedua pedoman tersebut adalah kesejahteraan bagi semua lapisan masyarakat dalam suasana politik dan ekonomi yang stabil.
+
+Pelita III ini menitikberatkan pada sektor pertanian menuju swasembada pangan, serta meningkatkan industri yang mengolah bahan baku menjadi barang jadi. Produksi beras diperkirakan mencapai 20,6 juta ton pada tahun 1983.
+### Pelita IV (1 April 1984 – 31 Maret 1989)
+
+Pelita IV menitikberatkan pada sektor pertanian untuk melanjutkan usaha menuju swasembada pangan, serta meningkatkan industri yang dapat menghasilkan mesin-mesin industri sendiri, baik industri berat maupun industri ringan.
+
+Hasil yang dicapai pada Pelita IV di antaranya adalah swasembada pangan dengan produksi beras mencapai 25,8 juta ton pada tahun 1984.
+
+Kesuksesan ini mendapatkan penghargaan dari FAO (Organisasi Pangan dan Pertanian) pada tahun 1985.
+### Pelita V (1 April 1989–31 Maret 1994)
+
+Pelita V menitikberatkan pada sektor pertanian dan industri untuk menetapkan swasembada pangan dan meningkatkan produksi hasil pertanian lainnya dan sektor industri khususnya industri yang menghasilkan barang ekspor, industri yang banyak menyerap tenaga kerja, industri pengolahan hasil pertanian, serta industri yang dapat menghasilkan mesin-mesin industri.
+
+Pelita V adalah periode terakhir dari pembangunan jangka panjang tahap pertama. Lalu, dilanjutkan pembangunan jangka panjang tahap kedua.
+### Pelita VI
+
+Pelita VI merupakan awal pembangunan jangka panjang tahap kedua. Pelita VI lebih menitikberatkan pada sektor ekonomi, industri, pertanian, serta pembangunan, dan peningkatan kualitas sumber daya manusia sebagai pendukungnya.
+
+Direncanakan, Pelita VI dilaksanakan mulai tanggal 1 April 1994 dan berakhir pada tanggal 31 Maret 1999.
+
+Namun, pada tahun 1997 Indonesia dilanda krisis keuangan yang berlanjut menjadi krisis ekonomi dan akhirnya menjadi krisis kepercayaan terhadap pemerintah. Akibatnya, Pelita VI tidak dapat dilanjutkan sesuai dengan yang direncanakan.
