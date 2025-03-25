@@ -1,1 +1,1 @@
-[[Interaksi Antar Ruang]] [[Kondisi Geografis dan Pelestarian Sumber Daya Alam]] 
+[[Interaksi Antar Ruang]] [[Kondisi Geografis dan Pelestarian Sumber Daya Alam]] [[Latihan IPS Pemantapan]]
