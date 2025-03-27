@@ -1,6 +1,43 @@
 ---
 title: Welcome to Erov's Note
 ---
+<center>The first man stood alone  
+on the barren field  
+and in the distance he saw  
+the locked gate beyond which  
+his greatest shame was kept.
+
+He turned to the snake  
+who writhed on its belly  
+like a worm  
+and cursed it for its treachery.
+
+"You tricked me," the man said  
+"you led my hand astray  
+and now we are damned for it."
+
+The snake sighed.  
+"I gave you knowledge," it said  
+"and with that knowledge  
+you made the choice you made.  
+I could not make it for you."
+
+The man cried out  
+"All the same, trusting you was  
+my greatest mistake."
+
+"No," the snake said  
+"Your greatest mistake was  
+believing you had a choice at all."
+
+</center>
+
+
+
+
+
+
+
 [[Op. Remembrance]]
 [[Materi-Materi LCC]]
 
