@@ -1,7 +1,8 @@
 ---
 title: Welcome to Erov's Note
 ---
-<center>The first man stood alone  
+<center>
+The first man stood alone  
 on the barren field  
 and in the distance he saw  
 the locked gate beyond which  
