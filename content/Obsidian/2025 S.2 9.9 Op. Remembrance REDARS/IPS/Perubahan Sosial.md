@@ -1,3 +1,4 @@
+[[Interaksi Sosial]]
 # Pengertian Perubahan Sosial menurut Para Tokoh
 ### **1. Kingsley Davis**
 
@@ -114,3 +115,55 @@ Contohnya, krisis ekonomi di suatu negara mengakibatkan banyaknya pengangguran d
 - _**Redemptive movement:**_ gerakan sosial yang bertujuan untuk mengubah perilaku seseorang secara menyeluruh.
 - _**Reformative movement:**_ gerakan sosial yang bertujuan mengubah segi-segi tertentu atau sebagian dari kehidupan masyarakat.
 - _**Transformative movement:**_ gerakan sosial yang bertujuan untuk mengubah keadaan masyarakat secara menyeluruh.
+# Proses Terjadinya Perubahan Sosial
+### 1. Difusi
+
+Difusi adalah proses penyebaran berbagai unsur pembentuk sosial dan kebudayaan, yakni berupa ide, keyakinan, dan hal lainnya. Penyebaran ini bisa dilakukan dari individu ke individu atau kelompok yang lebih besar dari itu. Proses difusi kemudian dibagi menjadi dua, yakni difusi intramasyarakat dan difusi antarmasyarakat.
+
+### 2. Akulturasi
+
+Akulturasi adalah proses perubahan sosial yang terjadi karena masuknya suatu kebudayaan asing ke dalam sekelompok masyarakat, sehingga unsur budaya asing itu diterima dan disesuaikan dengan kebudayaan asli masyarakat tertentu. Budaya asing tersebut masuk dan bisa diterima masyarakat tergantung bagaimana cara masuk budaya tersebut dan jangka waktu penyesuaian tertentu.
+
+### 3. Asimilasi
+
+Asimilasi adalah proses perubahan sosial yang timbul jika ada dua individu atau kelompok dengan latar budaya yang berbeda kemudian berinteraksi dengan intensi dalam jangka waktu yang lama.
+
+Proses perubahan sosial ini kemudian akan menghilangkan budaya tersebut atau mengurangi perbedaan antar golongan masyarakat. Asimilasi muncul agar mencapai suatu tujuan yang sama antar golongan demi kepentingan bersama.
+
+### 4. Akomodasi
+
+Akomodasi adalah proses perubahan sosial yang menunjukan keseimbangan dalam hubungan sosial antar golongan yang berkaitan dengan norma atau nilai yang berlaku di masyarakat.
+
+Seperti yang Grameds sudah pelajari di atas, bahwa perubahan sosial dapat disebabkan berbagai pengaruh dan berdampak kepada perubahan struktur, organisasi, dan hubungan sosial di dalamnya yang dapat kamu pelajari pada buku Perspektif Perubahan Sosial di bawah ini.
+# Bentuk-Bentuk Perubahan Sosial
+## Menurut Waktu
+### Evolusi dan Revolusi
+
+**a. Evolusi**
+
+Evolusi adalah perubahan sosial yang terjadi dengan memakan waktu yang sangat lama dan tanpa ada kehendak dari masyarakat itu sendiri. Perubahan sosial evolusi kemudian yang dipengaruhi oleh dorongan masyarakat untuk menyesuaikan diri terhadap perkembangan yang terjadi saat itu.
+
+**b. Revolusi**
+
+Revolusi adalah perubahan sosial yang terjadi dalam jangka waktu yang cepat dan tidak direncanakan sebelumnya. Jadi revolusi adalh perubahan sosial kebalikan dari evolusi.
+## Menurut Perencanaan
+### Direncanakan dan Tidak Direncanakan
+
+**a. Perubahan Yang Direncanakan**
+
+Perubahan sosial ini dikatakan direncanakan karena telah terjadi perubahan sesuai dengan yang diperkirakan atau direncanakan oleh pihak yang membuat perubahan. Pihak yang membuat perubahan itu kemudian kita kenal dengan sebutan _agent of change._
+
+**b. Perubahan Yang Tidak Direncanakan**
+Perubahan sosial dikatakan tidak direncanakan karena terjadi diluar perkiraan atau tanpa perencanaan terlebih dahulu. Biasanya perubahan sosial yang tidak direncanakan akan ditentang oleh masyarakat yang bersangkutan atau diperdebatkan kehadirannya.
+## Menurut Skala
+### Perubahan Kecil dan Besar
+
+**a. Perubahan Kecil**
+
+Perubahan sosial yang kecil biasanya terjadi pada unsur perubahan yang tidak memiliki pengaruh yang berarti, contohnya fashion dan lifestyle.
+
+**b. Perubahan Besar**
+
+Perubahan sosial yang besar biasanya memunculkan perdebatan di kalangan masyarakat karena kehadirannya. Selain itu perubahan sosial yang besar memerlukan keterlibatan masyarakat banyak sehingga menimbulkan reaksi dan pertentangan dari banyak kalangan. Itu artinya perubahan sosial tersebut penting dan besar.
+
+Seberapa besar maupun kecil perubahannya tersebut perubahan sosial tidak bisa di hindari. Dimana setiap menitnya akan selalu terjadi perubahan di tengah masyarakat yang dibahas pada buku Teori dan Strategi Perubahan Sosial di bawah ini.

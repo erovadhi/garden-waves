@@ -421,9 +421,9 @@ A. Megawati
 
 C. Soeharto
 
-==B. Jokowidodo==
+B. Jokowidodo
 
-D. Susilo Bambang Yudhoyono
+==D. Susilo Bambang Yudhoyono==
 
 39. Pada era demokrasi terpimpin kebijakan politik yang dibuat Soekarno yaitu melaksanakan konsepsi NASAKOM yang merupakan singkatan dari...
 
@@ -504,9 +504,8 @@ A. Revolusi
 B. Evolusi
 
 D. Regres
-
-.     
-A. Food gathering
+47.  Masa Ketika manusia purba mulai menanam tumbuhan untuk dimakan...  
+==A. Food gathering==
 
 C. Paleolitikum
 
@@ -520,7 +519,7 @@ A. Bisa bersaing dengan negara-negara Eropa
 
 B. Negara-negara ASEAN dapat memonopoli perdagangan
 
-C. Agar daya saing ASEAN meningkat dan bisa menyaingi Tiongkok dan India
+==C. Agar daya saing ASEAN meningkat dan bisa menyaingi Tiongkok dan India==
 
 D. Meningkatkan daya saing antar negara-negara ASEAN
 
@@ -540,7 +539,7 @@ D. Faktor ketidak percayaan para donatur dan kreditor terhadap pemerintah
 
 A. Fauna di Indonesia berasal dari benua lain
 
-B. Indonesia memiliki keanekaragaman fauna
+==B. Indonesia memiliki keanekaragaman fauna==
 
 C. Fauna endemic hanya ditemui di Indonesia
 

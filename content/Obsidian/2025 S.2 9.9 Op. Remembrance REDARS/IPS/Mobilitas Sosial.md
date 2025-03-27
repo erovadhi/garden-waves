@@ -39,8 +39,6 @@ Faktor ini terkait dengan kesempatan seseorang untuk menempati sebuah kedudukan 
 
 Kalau faktor ini _sih_ terkait dengan kualitas individu yang dilihat dari segi sikap, pengetahuan, dan keterampilan. Manusia ‘kan dilahirkan dalam status sosial yang dimiliki orang tuanya _tuh_. _Nah_, jika seseorang tidak puas dengan status sosial yang diwariskan, ia dapat berusaha untuk mencapai status sosial yang lebih tinggi. Sampai saat ini, pendidikan masih dianggap sebagai _social elevator_ atau sarana yang dapat membuat orang menjadi pribadi yang lebih berkualitas dan meningkatkan status sosialnya di masyarakat.
 
-Baca Juga: [Mengenal Kategori Keberagaman Masyarakat Multikultural](https://www.ruangguru.com/blog/mengenal-kategori-keberagaman-masyarakat-multikultural)
-
 ### 3. Ekonomi
 
 Jika situasi ekonomi dalam masyarakat cenderung baik maka mobilitas sosial pun dapat terwujud. Kondisi ekonomi yang baik membuat masyarakat mudah memperoleh modal, pendidikan, dan kesempatan lainnya. _Tapi_, kalau kondisi ekonominya buruk, masyarakat akan memiliki pendapatan terbatas sehingga sulit untuk memenuhi seluruh kebutuhannya dan mobilitas sosial tidak akan bisa terjadi.
@@ -60,8 +58,6 @@ Masyarakat yang mengalami kemiskinan akan kesulitan untuk mencapai status sosial
 ### 2. Diskriminasi
 
 Diskriminasi adalah membedakan perlakuan terhadap sesama karena alasan beda bangsa, suku, ras, agama, dan golongan. _Nah_, perlakuan membedakan seperti ini sangat tidak baik, selain dapat mengakibatkan konflik, juga dapat menghambat mobilitas sosial.
-
-Baca Juga: [Kenalan Yuk dengan Ras dan Suku Bangsa di Indonesia!](https://www.ruangguru.com/blog/mengenal-ras-dan-suku-bangsa-di-indonesia)
 
 ### 3. Stereotip Gender
 
