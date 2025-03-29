@@ -9,3 +9,23 @@ Sebagai contoh, seseorang yang mengangkat benda berat di Bumi dapat mengasosiasi
 Tubuh manusia dilengkapi dengan indra-indra perasa yang membuat kita dapat merasakan berbagai fenomena-fenomena yang diasosiasikan dengan massa. Seseorang dapat mengamati suatu objek untuk menentukan ukurannya, mengangkatnya untuk merasakan beratnya, dan mendorongnya untuk merasakan inersia benda tersebut. Penginderaan ini merupakan bagian dari pemahaman kita mengenai massa, tetapi tiada satupun yang secara penuh dapat mewakili konsep abstrak massa. Konsep abstrak bukanlah berasal dari penginderaan, melainkan berasal dari gabungan berbagai pengalaman manusia.
 
 Konsep modern massa diperkenalkan oleh [Sir Isaac Newton](https://id.wikipedia.org/wiki/Isaac_Newton "Isaac Newton") ([1642](https://id.wikipedia.org/wiki/1642 "1642")-[1727](https://id.wikipedia.org/wiki/1727 "1727")) dalam penjelasan gravitasi dan inersia yang dikembangkannya. Sebelumnya, berbagai fenomena gravitasi dan inersia dipandang sebagai dua hal yang berbeda dan tidak berhubungan. Namun, Isaac Newton menggabungkan fenomena-fenomena ini dan berargumen bahwa kesemuaan fenomena ini disebabkan oleh adanya keberadaan massa.
+
+Sederhananya, massa adalah jumlah materi dalam suatu benda.
+
+**Massa jenis**:
+$$
+\rho = \frac{m (kg)}{v (L)}
+$$
+**Massa:**
+$$
+m = \rho \times V 
+$$
+Volume:
+$$
+v = \frac{m}{v}
+$$
+
+Keterangan;
+$\rho$ : massa jenis benda (kg/L)
+m : massa benda (kg)
+V : volume benda (L)
