@@ -61,3 +61,54 @@ Vernier caliper atau jangka sorong berfungsi untuk mengukur dimensi benda kerja,
 ### 12. Neraca Pegas
 Alat pengukur gaya disebut juga dinamometer atau neraca pegas. Dinamometer merupakan **alat untuk mengukur besar kecilnya gaya dengan menerapkan prinsip gaya pegas**. Nama lain dari dinamometer dalam laboratorium fisika adalah neraca pegas. Neraca pegas ini juga biasa digunakan untuk mengukur berat bukan massa.
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8uuwSQBuNrO5eMRmP9U2Zq78xRQ1h2nUfrg&s)
+### 13. [[Mikroskop]]
+# Simbol-Simbol dalam Laboratorium
+![](https://chemistry.iiti.ac.in/wp/wp-content/uploads/2021/09/old_hazard_symbols.png)
+
+![](https://i0.wp.com/safetyeducations.com/wp-content/uploads/2024/12/Lab-Safety-Symbols.png?resize=768%2C432&ssl=1)
+# Struktur Percobaan
+## Observasi
+Secara umum, definisi observasi adalah suatu aktivitas pengamatan mengenai suatu objek tertentu secara cermat secara langsung di lokasi penelitian tersebut berada. Selain itu, observasi ini juga termasuk kegiatan pencatatan yang dilakukan secara sistematis tentang semua gejala objek yang diteliti.
+1. Observasi Partisipatif
+Observasi partisipatif merupakan jenis pengamatan yang dilakukan dengan aktif terlibat langsung dalam berbagai hal yang tengah diobservasi. Observer juga harus terjun langsung dan melakukan proses yang diamatinya secara langsung. Sehingga kemudian mendapatkan gambaran secara jelas tentang apa yang diobservasi.
+2. Observasi Sistematis
+Observasi sistematis merupakan suatu jenis pengamatan yang dilakukan juga dengan prosedur yang sesuai atau ketentuan yang telah dirancang sebelumnya tanpa melanggar berbagai ketentuan tersebut. Agar dapat melakukan observasi sistematis, observer juga harus menentukan terlebih dahulu tentang faktor apa saja yang mendasari dirinya melakukan pengamatan.
+3. Observasi Eksperimental
+Observasi eksperimental merupakan suatu jenis pengamatan yang dilakukan dengan cara mengadakan suatu tindakan untuk mengendalikan situasi, dan kemudian melakukan pengamatan ini terhadap gejala atau fenomena yang diteliti.
+## Hipotesis
+**Hipotesis** atau **patokan duga** ([serapan](https://id.wikipedia.org/wiki/Kata_serapan_dalam_bahasa_Indonesia "Kata serapan dalam bahasa Indonesia") dari [bahasa Yunani kuno](https://id.wikipedia.org/wiki/Bahasa_Yunani_kuno "Bahasa Yunani kuno"): _hypothesis_) adalah jawaban sementara terhadap masalah yang masih bersifat praduga karena masih harus dibuktikan kebenarannya. Dugaan jawaban tersebut merupakan kebenaran yang sifatnya sementara, yang akan diuji kebenarannya dengan data yang dikumpulkan melalui penelitian.
+![](https://upload.wikimedia.org/wikipedia/commons/a/a6/Relationship_Between_Theory_and_Hipothesis.jpg)
+**Hipotesis ilmiah** mencoba mengutarakan jawaban sementara terhadap masalah yang akan diteliti. Hipotesis menjadi teruji apabila semua gejala yang timbul tidak bertentangan dengan hipotesis tersebut. Dalam upaya [pembuktian](https://id.wikipedia.org/wiki/Pembuktian "Pembuktian") hipotesis, [peneliti](https://id.wikipedia.org/wiki/Peneliti "Peneliti") dapat saja dengan sengaja menimbulkan atau menciptakan suatu [gejala](https://id.wikipedia.org/wiki/Gejala "Gejala"). Kesengajaan ini disebut [percobaan](https://id.wikipedia.org/wiki/Eksperimen "Eksperimen"). Hipotesis yang telah teruji [kebenarannya](https://id.wikipedia.org/wiki/Kebenaran "Kebenaran") disebut [teori](https://id.wikipedia.org/wiki/Teori "Teori").
+## Rancangan Percobaan
+**Rancangan percobaan** (_Design of Experiment_) adalah kajian mengenai penentuan kerangka dasar kegiatan pengumpulan [informasi](https://id.wikipedia.org/wiki/Informasi "Informasi") terhadap objek yang memiliki variasi (stokastik), berdasarkan prinsip-prinsip statistika. Bidang ini merupakan salah satu cabang penting dalam [statistika inferensial](https://id.wikipedia.org/wiki/Statistika_inferensia "Statistika inferensia") dan diajarkan di banyak cabang ilmu pengetahuan di perguruan tinggi karena berkaitan erat dengan pelaksanaan percobaan ([eksperimen](https://id.wikipedia.org/wiki/Eksperimen "Eksperimen")).
+
+Rancangan percobaan dapat dikatakan sebagai "jembatan" bagi [peneliti](https://id.wikipedia.org/wiki/Peneliti "Peneliti") untuk bergerak dari [hipotesis](https://id.wikipedia.org/wiki/Hipotesis "Hipotesis") menuju pada eksperimen agar memberikan hasil yang valid secara ilmiah. Dengan demikian, rancangan percobaan dapat dikatakan sebagai salah satu instrumen dalam [metode ilmiah](https://id.wikipedia.org/wiki/Metode_ilmiah "Metode ilmiah").
+### Prinsip-Prinsip Perancangan Percobaan
+#### Pengacakan
+Pengacakan adalah proses memasangkan masing masing [level](https://id.wikipedia.org/wiki/Level "Level") pada tiap [faktor](https://id.wikipedia.org/w/index.php?title=Faktor&action=edit&redlink=1 "Faktor (halaman belum tersedia)") dengan acak dalam sebuah percobaan. Pengacakan dilakukan sebagai jaminan akan peluang yang sama bagi setiap satuan percobaan untuk mendapat suatu perlakuan. Lebih jauh lagi, tanpa pengacakan hampir semua rumusan statistika yang diterapkan dalam analisis akan menjadi tidak valid karena digunakannya asumsi independensi dalam setiap pengaruh galat yang muncul. Tanpa pengacakan tidak ada jaminan bagi munculnya [kovarians](https://id.wikipedia.org/w/index.php?title=Kovarians&action=edit&redlink=1 "Kovarians (halaman belum tersedia)") antargalat.
+#### Pengulangan
+Pengukuran biasanya selalu memiliki variasi dan ketidakpastian. Dengan mengulangi keseluruhan percobaan, akan bisa membantu mengidentifikasi sumber dari variasi tersebut.
+#### Pemblokkan
+Pemblokkan adalah mengatur percobaan menjadi beberapa group (blok) yang masing masing group berisi faktor yang sejenis. Pemblokkan membantu untuk mengetahui apakah ada pengaruh blok terhadap hasil percobaan.
+#### Ortogonalitas
+Ortogonalitas adalah prinsip yang penting dalam hal rancangan-rancangan berblok tidak lengkap atau data tidak setimbang (_unbalanced_). Ortogonalitas menjamin bahwa pendugaan (_estimation_) dapat dilakukan. Selain itu, ortogonalitas akan menjaga agar efisiensi suatu rancangan tetap tinggi.
+#### Factorial Experiments
+Factorial experiment berati, dalam percobaan semua level dari tiap faktor di perhitungkan, bukan mengubah satu persatu faktor yang ada. Metode ini membuat percobaan menjadi lebih efisien.
+## Eksperimen
+**Percobaan** atau **uji kaji** ([bahasa Inggris](https://id.wikipedia.org/wiki/Bahasa_Inggris "Bahasa Inggris"): _experiment_; dari [Bahasa Latin](https://id.wikipedia.org/wiki/Bahasa_Latin "Bahasa Latin"): _ex-periri_ yang berarti menguji coba) adalah suatu set tindakan dan pengamatan, yang dilakukan untuk mengecek atau menyalahkan [hipotesis](https://id.wikipedia.org/wiki/Hipotesis "Hipotesis") atau mengenali [hubungan](https://id.wikipedia.org/wiki/Hubungan "Hubungan") sebab akibat antara gejala. Dalam penelitian ini, sebab dari suatu gejala akan diuji untuk mengetahui apakah sebab (variabel bebas) tersebut memengaruhi akibat (variabel terikat). Penelitian ini banyak digunakan untuk memperoleh [pengetahuan](https://id.wikipedia.org/wiki/Pengetahuan "Pengetahuan") dalam bidang [ilmu alam](https://id.wikipedia.org/wiki/Ilmu_alam "Ilmu alam") dan [psikologi](https://id.wikipedia.org/wiki/Psikologi "Psikologi") [sosial](https://id.wikipedia.org/wiki/Sosial "Sosial").
+## Data
+**Data** ([serapan](https://id.wikipedia.org/wiki/Kata_serapan_dalam_bahasa_Indonesia) dari [bahasa Latin](https://id.wikipedia.org/wiki/Bahasa_Latin "Bahasa Latin"): _data_) adalah catatan atas kumpulan [fakta](https://id.wikipedia.org/wiki/Fakta "Fakta"). Dalam penggunaan sehari-hari, data berarti suatu pernyataan yang diterima secara apa adanya. Pernyataan ini adalah hasil pengukuran atau pengamatan suatu [variabel](https://id.wikipedia.org/wiki/Variabel "Variabel") yang bentuknya dapat berupa angka, kata-kata, atau citra.
+
+Data yang berupa angka-angka disebut data kuantitatif, sedangkan data yang bukan berupa angka disebut data kualitatif. Berdasarkan cara memperolehnya, data kuantitatif terbagi atas data diskrit dan data kontinu. Data diskrit adalah data yang diperoleh dengan cara menghitung, sedangkan data kontinu adalah data yang diperoleh dengan cara mengukur.
+## Kesimpulan
+**Kesimpulan** adalah suatu proposisi (kalimat yang disampaikan) yang diambil dari beberapa premis (ide pemikiran) dengan aturan-aturan inferensi (yang berlaku). Kesimpulan juga merupakan sebuah gagasan yang tercapai pada akhir pembicaraan. Dengan kata lain, kesimpulan adalah hasil dari pembicaraan.
+
+Dalam membuat kesimpulan, hasil kesimpulan harus berisi informasi penting yang dapat menjawab pertanyaan tentang apa, kapan, di mana, siapa, mengapa, dan bagaimana. Hal ini dilakukan untuk membantu pembaca memahami isi keseluruhan teks. Kesimpulan juga dapat membantu pembaca agar dapat lebih memahami isi teks. Dengan demikian, dia dapat mengetahui maksud dan tujuan dari informasi yang disampaikan oleh penulis.
+
+Adapun ciri-ciri dari kesimpulan yang baik dan benar adalah:
+
+- Pesan dan informasi dapat tersampaikan dengan jelas kepada pembaca.
+- Kesimpulan harus sederhana, singkat, dan jelas.
+- Menggunakan kosakata yang baku.
+- Kesimpulan dibangun berdasarkan ide pokok yang ada pada setiap paragraf.
+- Menggunakan kata transisi ringkasan (yaitu, dengan kata lain, singkatnya, ringkasnya, kesimpulannya, dan karena itu)
