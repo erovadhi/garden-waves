@@ -131,6 +131,14 @@ $$
 $$
 C = m \cdot c
 $$
+**Kalor Lebur:**
+$$
+Q = m \cdot L
+$$
+**Kalor Uap:**
+$$
+Q = m \cdot U
+$$
 di mana
  $Q$ : banyaknya kalor (jumlah panas) dalam [joule](https://id.wikipedia.org/wiki/Joule "Joule")
 
@@ -139,3 +147,35 @@ $m$ : [massa](https://id.wikipedia.org/wiki/Massa "Massa") benda dalam kg
 $c$ : kalor jenis dalam joule/kg °C, dan
 
 $\Delta t$ : besarnya perubahan [suhu](https://id.wikipedia.org/wiki/Suhu "Suhu") dalam °C.
+
+## Macam-Macam Perpindahan Kalor
+Dari penjelasan pengertian, jenis, rumus, dan perubahan kalor di atas jelas menunjukan bahwa kalor juga berpindah atas pertemuan benda yang bersentuhan atau mengatur. Dari gejala itu, ada beberapa jenis perpindahan kalor yang bisa terjadi seperti berikut ini:
+
+### **1. Konduksi**
+
+Perpindahan kalor secara konduksi terjadi dengan melewati zat perantara seperti logam tanpa disertai perpindahan partikel- partikel secara permanen di dalam zat itu sendiri. Contohnya ketika memanaskan ujung logam, maka ujung logam lainnya juga ikut panas. Hal ini terjadi karena adanya hantaran kalor dari suhu yang tinggi menuju suhu yang lebih rendah. 
+
+Memanaskan ujung logam akan membuat partikel logam membuat getaran pada partikel lain yang terhubung dengannya. Itulah sebabnya semua partikel logam akan bergetar meskipun hanya satu ujung logam yang dipanaskan karena hal ini merangsang terjadinya perpindahan kalor. 
+
+Contoh lain yang terjadi pada jenis perpindahan konduksi adalah saat memegang kembang api yang sedang dibakar, knalpot motor menjadi panas setelah motor dinyalakan, tutup panci yang ikut panas saat digunakan untuk memasak, mentega yang meleleh saat dipanaskan, dan sebagainya. Dari keterangan diatas maka dapat ditampilkan persamaan untuk perpindahan kalor dengan cara konduksi dengan rumus berikut ini: 
+
+### Laju Kalor = Q/t = kA (T2 – T1)/x  
+  
+**2. Konveksi**
+
+Konveksi adalah salah satu perpindahan kalor yang melewati suatu zat disertai dengan perpindahan bagian-bagian zat- zat itu sendiri. Perpindahan secara konveksi ini bisa terjadi pada zat cair atau gas, sehingga jenis perpindahan ini dibagi menjadi dua seperti berikut ini:
+
+- **Konveksi Secara Ilmiah:** Adalah perpindahan konveksi yang disebabkan oleh adanya gaya apung tanpa faktor luar dan dipengaruhi adanya perbedaan jenis benda. Misalnya yang terjadi pada pemanasan air, dimana massa jenis partikel air yang sudah panas akan naik menjauh dari api dan kemudian digantikan dengan partikel zat air lain yang suhunya lebih rendah. Proses tersebut menyebabkan semua partikel zat dapat panas secara keseluruhan secara sempurna.  
+- **Konveksi Paksa:** Adalah perpindahan konveksi yang terjadi karena ada pengaruh faktor luar seperti tekanan dan perpindahan kalor terjadi dengan cara paksa atau disengaja. Itu artinya panas kalor dipaksa untuk berpindah ke tempat yang dituju dengan bantuan faktor luar seperti tekanan. Misalnya yang terjadi pada kipas angin yang membawa udara dingin ke tempat yang panas, radiator mobil yang memiliki sistem pendingin mesin, dan contoh lainnya. 
+
+Contoh perpindahan secara konveksi antara lain seperti, gerakan naik turun air saat dipanaskan, gerakan naik turun biji kacang hijau saat direbus, terjadinya angin darat dan angin laut, gerakan balon udara, asap cerobong pabrik yang membumbung tinggi ke udara, dan contoh lainnya. Dari keterangan diatas maka dapat ditampilkan persamaan untuk perpindahan kalor dengan cara konveksi dengan rumus berikut ini: 
+
+Laju Kalor = Q/t = hA (T2 – T1)
+
+### **3. Radiasi**
+
+Radiasi adalah perpindahan kalor yang tidak menggunakan zat perantara sama sekali. Radiasi tidak sama dengan konduksi dan konveksi dalam memindahkan kalor. Perpindahan kalor secara radiasi tidak selalu mengharuskan kedua benda untuk bertemu atau saling bersentuhan karena kalor tersebut dapat berpindah tanpa zat perantara. Itu artinya kalor akan dipancarkan ke semua arah oleh sumber panas dan kemudian mengalir ke semua arah yang bisa dituju. 
+
+Sebenarnya setiap benda dapat memancarkan dan menyerap radiasi kalor, namun besarnya bergantung pada suhu benda dan warna zat benda tersebut. Semakin panas benda dibandingkan dengan suhu lingkungan sekitarnya, maka akan semakin besar pula kalor yang diradiasikan ke sekitarnya. Jadi semakin luas permukaan benda panas membuat semakin panas pula kalor yang diradiasikan ke sekitarnya. 
+
+Laju Kalor = Q/t = σeAT4
