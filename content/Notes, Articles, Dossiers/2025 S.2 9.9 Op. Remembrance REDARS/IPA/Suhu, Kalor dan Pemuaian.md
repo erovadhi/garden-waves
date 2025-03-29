@@ -139,6 +139,11 @@ $$
 $$
 Q = m \cdot U
 $$
+**Perubahan Suhu:**
+$$
+\Delta t = T_{akhir} - T_{awal}
+
+$$
 di mana
  $Q$ : banyaknya kalor (jumlah panas) dalam [joule](https://id.wikipedia.org/wiki/Joule "Joule")
 
@@ -147,7 +152,7 @@ $m$ : [massa](https://id.wikipedia.org/wiki/Massa "Massa") benda dalam kg
 $c$ : kalor jenis dalam joule/kg °C, dan
 
 $\Delta t$ : besarnya perubahan [suhu](https://id.wikipedia.org/wiki/Suhu "Suhu") dalam °C.
-
+ $t$ : besarnya  [suhu](https://id.wikipedia.org/wiki/Suhu "Suhu") dalam °C.
 ## Macam-Macam Perpindahan Kalor
 Dari penjelasan pengertian, jenis, rumus, dan perubahan kalor di atas jelas menunjukan bahwa kalor juga berpindah atas pertemuan benda yang bersentuhan atau mengatur. Dari gejala itu, ada beberapa jenis perpindahan kalor yang bisa terjadi seperti berikut ini:
 
@@ -179,3 +184,35 @@ Radiasi adalah perpindahan kalor yang tidak menggunakan zat perantara sama sekal
 Sebenarnya setiap benda dapat memancarkan dan menyerap radiasi kalor, namun besarnya bergantung pada suhu benda dan warna zat benda tersebut. Semakin panas benda dibandingkan dengan suhu lingkungan sekitarnya, maka akan semakin besar pula kalor yang diradiasikan ke sekitarnya. Jadi semakin luas permukaan benda panas membuat semakin panas pula kalor yang diradiasikan ke sekitarnya. 
 
 Laju Kalor = Q/t = σeAT4
+# Pemuaian
+**Pemuaian panas** adalah perubahan suatu benda yang bisa menjadi bertambah [panjang](https://id.wikipedia.org/wiki/Panjang "Panjang"), [lebar](https://id.wikipedia.org/wiki/Lebar "Lebar"), [luas](https://id.wikipedia.org/wiki/Luas "Luas"), atau berubah [volumenya](https://id.wikipedia.org/wiki/Volume "Volume") karena terkena [panas](https://id.wikipedia.org/wiki/Panas "Panas") (kalor). Singkatnya, pemuaian panas adalah perubahan benda yang terjadi karena panas. Pemuaian tiap-tiap benda akan berbeda, tergantung pada suhu di sekitar dan koefisien muai atau daya muai dari benda tersebut.
+## Berdasarkan Tipe Zat
+
+### Pemuaian Zat Padat
+Secara alamiah jika suatu benda dipanaskan maka akan terjadi pemuaian. Sebaliknya, jika benda didinginkan, atau suhu panas menurun maka akan terjadi penyusutan. Pada tingkat yang lebih kecil atau molekuler atau atomik, apa yang terjadi ketika benda padat, misalnya logam, dipanaskan? Pada suhu yang tinggi atom-atom dan molekul-molekul penyusun logam tersebut akan bergetar lebih cepat dari biasanya sehingga mengakibatkan logam tersebut akan memuai ke segala arah. Pemuaian ini menyebabkan volume logam bertambah besar dan kerapatannya menjadi berkurang.
+### Pemuaian Zat Cair
+Zat cair juga mengalami pemuaian ketika dipanaskan. Zat cair relatif lebih mudah teramati dibanding zat padat. Salah satu contohnya adalah pembuatan termometer yang memanfaatkan sifat pemuaian zat cair di dalamnya.
+### Pemuaian Zat Gas
+Seperti halnya zat cair, gas juga akan mengalami pemuian jika diberikan kalor dalam jumlah tertentu. Sifat pemuaian gas dapat kita manfaatkan dalam kehidupan sehari-hari, misalnya untuk menerbangkan balon udara, memompa ban sepeda tidak perlu terlalu kencang dan jangan meletakkan balon di tempat yang panas.
+## Berdasarkan Dimensi Pemuaian
+### Pemuaian Panjang
+Pemuaian panjang merupakan **perubahan panjang suatu benda saat benda tersebut mengalami kenaikan suhu akibat dipanaskan.**
+
+Peristiwa ini terjadi pada zat padat yang ukuran panjangnya jauh lebih besar jika dibandingkan dengan lebar atau diameternya, seperti paku, kawat, batang besi, dan sebagainya.
+![](https://cdn-web.ruangguru.com/landing-pages/assets/hs/07FIS_-_Mempelajari_Proses_Pemuaian_pada_Zat_Padat-03.jpg)
+#### Rumus Pemuaian Panjang
+
+Nah, pertambahan panjang suatu zat secara fisis akan:
+
+1. Berbanding lurus dengan panjang mula-mula.
+2. Berbanding lurus dengan perubahan suhu.
+3. Bergantung dari jenis zat.
+### Pemuaian Luas
+Pemuaian luas merupakan **perubahan luas suatu benda saat benda tersebut mengalami kenaikan suhu akibat dipanaskan.** Pemuaian luas ini dapat diamati pada benda yang ketebalannya jauh lebih kecil dibandingkan dengan panjang dan lebarnya. Jadi, pemuaian arah tebalnya juga jauh lebih kecil daripada pemuaian di arah panjang dan lebarnya, sehingga bisa diabaikan.
+![](https://cdn-web.ruangguru.com/landing-pages/assets/hs/07FIS_-_Mempelajari_Proses_Pemuaian_pada_Zat_Padat-04.jpg)
+#### Rumus Pemuaian Luas
+Pertambahan luas suatu zat bila dipanaskan akan:
+
+1. Berbanding lurus dengan luas mula-mula.
+2. Berbanding lurus dengan perubahan suhu.
+3. Bergantung dari jenis zat.

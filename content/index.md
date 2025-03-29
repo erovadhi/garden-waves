@@ -2,7 +2,6 @@
 title: Welcome to Erov's Note
 ---
 
-
 The first man stood alone
 on the barren field
 and in the distance he saw
