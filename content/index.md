@@ -1,7 +1,7 @@
 ---
 title: Welcome to Erov's Note
 ---
-<center>
+
 
 The first man stood alone
 on the barren field
@@ -32,7 +32,7 @@ my greatest mistake."
 "Your greatest mistake was  
 believing you had a choice at all."
 
-</center>
+
 
 
 
