@@ -31,14 +31,17 @@ Berikut adalah besaran-besaran pada gerak dalam bidang satu dimensi atau gerak l
 - **Kelajuan sesaat dan kecepatan sesaat** Kelajuan sesaat adalah kelajuan rata-rata yang waktu tempuhnya mendekati nol. Kecepatan sesaat adalah kecepatan rata-rata yang selang waktunya mendekati nol. Ketika sebuah mobil bergerak dengan kelajuan tertentu, kita dapat melihat besarnya kelajuan mobil tersebut pada speedometer. Kelajuan sebuah mobil dalam kenyataannya tidak ada yang konstan, melainkan berubah-ubah. Akan tetapi, kita dapat menentukan kelajuan pada saat waktu tertentu. Kelajuan yang dimaksud adalah kelajuan sesaat. **Kelajuan sesaat** merupakan [besaran skalar](https://id.wikipedia.org/w/index.php?title=Besaran_skalar&action=edit&redlink=1 "Besaran skalar (halaman belum tersedia)"), sedangkan kecepatan sesaat merupakan [besaran vektor](https://id.wikipedia.org/wiki/Vektor_\(spasial\) "Vektor (spasial)"). Oleh karena itu, kelajuan sesaat disebut juga sebagai nilai dari kecepatan sesaat. Kelajuan atau **kecepatan sesaat** berlaku untuk Δt mendekati nilai nol. Umumnya, konsep kelajuan dan kecepatan sesaat digunakan pada kejadian yang membutuhkan waktu yang sangat pendek. Misalnya, kelajuan yang tertera pada speedometer. Kecepatan sesaat secara matematis dapat dituliskan sebagai berikut.
   $$v=\underset{\Delta t \hspace{0.1cm} \rightarrow \hspace{0.1cm} 0}{lim} \frac{\Delta x}{\Delta t}$$
 - **Percepatan**, [percepatan](https://id.wikipedia.org/wiki/Percepatan "Percepatan") didefinisikan sebagai laju perubahan kecepatan terhadap waktu. Percepatan adalah turunan kedua dari perpindahan, yaitu percepatan dapat ditemukan dengan membedakan posisi terhadap waktu dua kali atau membedakan kecepatan terhadap waktu satu kali. Satuan SI untuk percepatan adalah $m/s$ atau [meter per detik kuadrat](https://id.wikipedia.org/wiki/Meter_per_detik_kuadrat "Meter per detik kuadrat"). Secara matematis percepatan dirumuskan. $$percepatan = \frac{perubahan \hspace{0.1cm} kecepatan}{perubahan \hspace{0.1cm} waktu} \hspace{0.1cm} atau \hspace{0.1cm} \overline{a} = \frac{\Delta \overline{v}}{\Delta t}$$
+  $$
+  a = \frac{(v_1 - v_0)}{(t_1-t_0)} \hspace{0.1cm} (5)
+  $$
 ## Jenis-Jenis Gerak
 Gerak benda adalah perpindahan posisi suatu benda. Gerak bersifat relatif sehingga dapat diakatakan gerak benda tergantung dari sudut pandang pengamat dan titik acuan yang digunakan.
-1. #### Gerak Semu
+1. Gerak Semu
     
 
 Gerak semu merupakan gerak yang sifatnya seolah-olah bergerak atau tidak (ilusi). Misalnya benda-benda yang dilihat dari dalam mobil yang bergerak. Mereka seolah-olah bergerak padahal mobil yang bergerak.
 
-2. #### Gerak Ganda
+2. Gerak Ganda
     
 
 Gerak ganda adalah gerak yang terjadi secara bersamaan pada benda-benda yang ada di sekitarnya. Misalnya seseorang melempar kulit jeruk ke luar mobil yang sedang melaju. Peristiwa tersebut terdiri dari tida pergerakan, yakni gerak terhadap mobil; gerak terhadap tanah atau bumi; dan geraj terhadap anak kecil.
