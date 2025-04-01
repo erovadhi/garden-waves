@@ -1,5 +1,5 @@
 # Definisi
-Perdagangan internasional merupakan suatu aktivitas berdagang yang dilakukan oleh dua negara yang berbeda. Perdagangan internasional dapat disebut pula sebagai _international trade_ dan telah ada sejak pertengahan abad lho Grameds!
+Perdagangan internasional merupakan suatu aktivitas berdagang yang dilakukan oleh dua negara yang berbeda. Perdagangan internasional dapat disebut pula sebagai _international trade_ dan telah ada sejak pertengahan abad.
 
 Lebih jelasnya, perdagangan internasional ini dapat terjadi ketika ada kegiatan perdagangan yang dilakukan oleh dua negara berbeda dan tentu saja kegiatan tersebut telah disetujui oleh keduanya.
 
@@ -69,7 +69,7 @@ Tujuan dari perdagangan internasional selanjutnya adalah untuk memperluas pasar.
 
 Perdagangan internasional juga dilakukan demi memperoleh keuntungan dalam hal teknologi modern yang tidak bisa atau belum diproduksi atau diperoleh dari dalam negeri, sehingga membutuhkan kerja sama dengan pihak luar. Transfer teknologi modern yang dimaksud dapat berupa mesin maupun vaksin seperti saat ini, Indonesia belum bisa memproduksi dan menguji keefektifan dari vaksin untuk virus Covid-19, sehingga negara lain memberikan vaksin hal produksinya untuk Indonesia dan lain sebagainya.
 # Manfaat
-Setelah mengetahui definisi serta tujuan dari perdagangan internasional, selanjutnya Grameds juga perlu mengetahui apakah manfaat yang akan didapatkan oleh suatu negara yang melakukan kerja sama perdagangan internasional tersebut? Berikut penjelasannya.
+Setelah mengetahui definisi serta tujuan dari perdagangan internasional, selanjutnya juga perlu mengetahui apakah manfaat yang akan didapatkan oleh suatu negara yang melakukan kerja sama perdagangan internasional tersebut? Berikut penjelasannya.
 
 Kebijakan perdagangan internasional memiliki beberapa manfaat, salah satunya adalah dapat membuka kesempatan bagi negara lain untuk dapat memanfaatkan sumber daya yang ada di negara lain dengan proporsional.
 

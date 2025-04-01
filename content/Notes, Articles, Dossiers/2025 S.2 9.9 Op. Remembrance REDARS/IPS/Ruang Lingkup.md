@@ -1,4 +1,4 @@
-# Fungsi [[Hakikat Ilmu Sains, Metode Ilmiah dan Laboratorium|Ekologi]]
+# Fungsi [[Ekologi & Lingkungan]]
 
 Jika dilihat secara epistemologi (ilmu pengetahuan), kata ekologi berasal dari bahasa Yunani, yaitu oikos dan logos. Kata Oikos memiliki pengertian sebagai habitat, sedangkan kata logos memiliki pengertian sebagai ilmu.
 

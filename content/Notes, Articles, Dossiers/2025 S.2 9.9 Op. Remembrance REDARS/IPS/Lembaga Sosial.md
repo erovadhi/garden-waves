@@ -28,7 +28,6 @@ Lembaga sosial yang ada dan terbentuk di masyarakat memiliki fungsi sebagai beri
 1. Lembaga sosial berfungsi untuk memberikan pedoman pada anggota masyarakat tentang bagaimana setiap individu harus bersikap dalam menghadapi masalah yang muncul dan berkembang di lingkungan masyarakat.
 2. Lembaga sosial berfungsi untuk menjaga keutuhan masyarakat yang saling berhubungan atau bersangkutan.
 3. Lembaga sosial berfungsi untuk memberikan arahan kepada masyarakat untuk dapat mengadakan sistem pengendalian sosial seperti sistem pengawasan masyarakat kepada anggotanya.
-4. Itulah penjelasan singkat mengenai lembaga sosial, Grameds dapat mempelajari lebih lanjut dan menggali lebih dalam mengenai materi lembaga sosial ini.
 
 # Ciri-Ciri Lembaga Sosial
 Lembaga sosial memiliki beberapa ciri-ciri yang perlu Grameds ketahui untuk dapat menentukan dan membedakan setiap tipe maupun jenis lembaga sosial yang akan dijelaskan nantinya. Berikut adalah beberapa ciri-ciri dari lembaga sosial.

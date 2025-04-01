@@ -134,7 +134,7 @@ Proses perubahan sosial ini kemudian akan menghilangkan budaya tersebut atau men
 
 Akomodasi adalah proses perubahan sosial yang menunjukan keseimbangan dalam hubungan sosial antar golongan yang berkaitan dengan norma atau nilai yang berlaku di masyarakat.
 
-Seperti yang Grameds sudah pelajari di atas, bahwa perubahan sosial dapat disebabkan berbagai pengaruh dan berdampak kepada perubahan struktur, organisasi, dan hubungan sosial di dalamnya yang dapat kamu pelajari pada buku Perspektif Perubahan Sosial di bawah ini.
+Seperti yang sudah pelajari di atas, bahwa perubahan sosial dapat disebabkan berbagai pengaruh dan berdampak kepada perubahan struktur, organisasi, dan hubungan sosial di dalamnya yang dapat kamu pelajari pada buku Perspektif Perubahan Sosial di bawah ini.
 # Bentuk-Bentuk Perubahan Sosial
 ## Menurut Waktu
 ### Evolusi dan Revolusi
